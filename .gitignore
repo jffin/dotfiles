@@ -1,2 +1,8 @@
 !bin
 vim/bundle/
+.idea/.gitignore
+.idea/dotfiles.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
