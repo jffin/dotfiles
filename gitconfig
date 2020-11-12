@@ -29,7 +29,8 @@
 [diff]
   colorMoved = zebra
 [user]
-	email = 22579497+jffin@users.noreply.github.com
+	email = yougetthat.f@gmail.com
+	name = jffin
 [filter "lfs"]
 	clean = git-lfs clean -- %f
 	smudge = git-lfs smudge -- %f
