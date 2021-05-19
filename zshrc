@@ -3,6 +3,8 @@ for function in ~/.zsh/functions/*; do
   source $function
 done
 
+fpath+=~/.zfunc
+
 # extra files in ~/.zsh/configs/pre , ~/.zsh/configs , and ~/.zsh/configs/post
 # these are loaded first, second, and third, respectively.
 _load_settings() {
