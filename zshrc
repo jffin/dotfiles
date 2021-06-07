@@ -44,6 +44,8 @@ _load_settings "$HOME/.zsh/configs"
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
+[[ -f ~/.zprofile ]] && source ~/.zprofile
+
 export PATH="$HOME/.poetry/bin:$PATH"
 
 eval $(thefuck --alias)
